@@ -6,3 +6,5 @@ You may use this software, distribute it, and copy it, but you must give credit 
 
 # Change Log
 Added all the features to v1.0.0
+
+[Releases](https://github.com/ali-kingX/Custom-Minecraft-Launcher/releases)
