@@ -3,7 +3,7 @@ A custom minecraft launcher that will launch minecraft pretty quickly.
 
 # How to use
 
-First you are going to want to unzip it and run the exe called launchversion.exe. Then you are going to want to start minecraft via the minecraft launcher, you just need an instance of minecraft going! Then click the New Installation button. Now reopen the launcher after a minecraft window pops up. And then you can see an installation in the popup menu!
+First you are going to want to unzip it and run the exe called fastlauncher.exe. Then you are going to want to start minecraft via the minecraft launcher, you just need an instance of minecraft going! Then click the New Installation button. Now reopen the launcher after a minecraft window pops up. And then you can see an installation in the popup menu! If your minecraft proccess isn't found make sure it is running javaw.exe. Working on an update so that java.exe will also work!
 
 # Use of software
 You may use this software, distribute it, and copy it, but you must give credit to the original creator me ali-kingX.
